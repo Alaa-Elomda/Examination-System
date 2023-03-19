@@ -22,10 +22,3 @@ DB will help ITI staff to see the following Reports:
 Tools:
 SQLServer
 Report builder
-
-Our Team:
-Sara Sherif
-Habiba Magdy
-Bassant Reda
-Nada Tamer
-Alaa Ahmed
